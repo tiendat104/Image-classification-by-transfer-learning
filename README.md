@@ -8,6 +8,9 @@ Because the size of the whole dataset is big, so in this project, i only create 
 
 After downloading the dataset from above links, please arange the images as the same as folder "data" in this project. There are 3 folders "train", "test", "val", each folder contains 6 folders that contains images from 6 classes.
 
+# Data visualization
+![](assets/data_visualize.png)
+
 # Environment requirement
 - tensorflow==1.15.0
 - keras==2.3.1
